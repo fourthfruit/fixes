@@ -11,4 +11,4 @@ Here we fix new releases of .deb files with major bugs and upload them. Please a
 
 ### Support or Contact
 
-Having trouble with our fixes? Contact us at any time at support@fourthfruit.com.
+Having trouble with our fixes? Contact the team at any time at support@fourthfruit.com or contact the dev team at dev@fourthfruit.com and we will reply within 1 day on a normal schedule.
