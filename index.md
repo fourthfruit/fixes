@@ -4,7 +4,7 @@ Here we fix new releases of .deb files with major bugs and upload them. Please a
 ## Brackets
 ##### The recent releases of brackets have had missing dependencies. We have fixed them and put the links here.
 * Brackets 1.9
-  * [Brackets1.9.64-bit_FIXED](https://www.dropbox.com/s/cv6vmyx0o8ymje8/Brackets.Release.1.9.64-bit%28fix1.0%29.deb?dl=0)
+  * [Brackets1.9.64-bit_FIXED](https://www.dropbox.com/s/1uhvmwhn67rrxgd/brackets_1.9.0-17312_amd64%28fix1.1%29.deb?dl=0)
 
 
 
