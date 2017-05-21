@@ -4,7 +4,7 @@ Here we fix new releases of .deb (for debian distro's) files with major bugs and
 ## Brackets
 ##### The recent releases of brackets have been missing the libgcrypt11 dependency when installing the .deb file on the newest version of Ubuntu. The team has fixed the files and put the links here.
 * Brackets 1.9
-  * [Brackets1.9.64-bit_FIXED](https://mega.nz/#!o2pwnS4S!9oJQ7E6Npz-3IK3mCrf1pKxM3lKybXLUq-c6QdWTuN4)
+  * [Brackets1.9.64-bit_FIXED](https://mega.nz/#!U3I0gRpY!9oJQ7E6Npz-3IK3mCrf1pKxM3lKybXLUq-c6QdWTuN4)
 
 
 
