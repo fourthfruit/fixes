@@ -9,7 +9,28 @@ Here we fix new releases of .deb (for debian distro's) files with major bugs and
   * [Brackets1.9.0.64-bit_FIXED](https://mega.nz/#!U3I0gRpY!9oJQ7E6Npz-3IK3mCrf1pKxM3lKybXLUq-c6QdWTuN4)
 
 
-
+<script src="//blockr.io/js_external/coinwidget/coin.js"></script>
+		<script>
+			CoinWidgetCom.go({
+				wallet_address: '1SCh47GnG46xj7z1qc7wucNd8wSGAQ6zN',
+				currency: 'bitcoin',
+				counter: 'countdown',
+				lbl_button: 'Donate',
+				lbl_count: 'donations',
+				lbl_amount: 'BTC',
+				lbl_address: 'FourthFruit offers several different skills that can be used for free, but we require some money to keep us going.... We offer opensource software along with websites on request and 3d modeling and VFX. Please donate today.',
+				qrcode: true,
+				alignment: 'bl',
+				decimals: 8,
+				size: "big",
+				color: "dark",
+				countdownFrom: "1",
+				element: "#coinwidget-bitcoin-1SCh47GnG46xj7z1qc7wucNd8wSGAQ6zN",
+				onShow: function(){},
+				onHide: function(){}
+			});
+		</script>
+		<div id="coinwidget-bitcoin-1SCh47GnG46xj7z1qc7wucNd8wSGAQ6zN"></div>
 
 ### Support or Contact
 
